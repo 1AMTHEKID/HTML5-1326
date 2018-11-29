@@ -66,3 +66,10 @@ footer {
 p {
 	color: white;
 }
+
+div.Group1-words {
+	text-align:left;
+	height:18px;
+	padding:2px;
+	width:9px;
+}
